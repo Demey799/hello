@@ -1,4 +1,4 @@
 # hello
 eerste database
-eerste aanpassing;
+eerste aanpassing
 tweede commit
